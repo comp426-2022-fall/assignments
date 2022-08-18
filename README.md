@@ -4,7 +4,7 @@
 
 This repository contains information about and links to assignment invites and repositories.
 
-Assignement template repositories will appear here as submodules. 
+Assignment template repositories will appear here as submodules. 
 
 
 | **Assignment** | **GitHub Classroom Invite** | **Template Repo** | **Due date** |
