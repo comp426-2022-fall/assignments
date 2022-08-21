@@ -6,16 +6,23 @@ This repository contains information about and links to assignment invites and r
 
 ### List of assignments
 
-| **Assignment** | **GitHub Classroom Invite** | **Template Repo** | **Due date** |
-|:--- |:--- |:--- |:--- |
-| a00: Onboarding | [Accept invite](https://classroom.github.com/a/TLIqqWVj) | [Issues](https://github.com/comp426-2022-fall/a00) | 2022-08-25 |
-
-
-### Focus
-
 The assignments are designed to be cumulative skill-building exercises that will help you develop the knowledge and techniques necessary for building interactive web applications.
 
 Some assignments will introduce important new material that isn't directly covered in lectures, but will likely be present in demos.
+
+| **Assignment** | **GitHub Classroom Invite** | **Template Repo** | **Due date** |
+|:--- |:--- |:--- |:--- |
+| a00: Onboarding | [Accept invite](https://classroom.github.com/a/TLIqqWVj) | [Issues](https://github.com/comp426-2022-fall/a00/issues/) | 2022-08-25 |
+
+### Help with assignments
+
+**_ALL_** questions and requests for help with assignments should start with the creation of an issue in the appropriate template repository.
+
+You will find the links to the place to create those issues in the list of assignments above.
+
+1. If you post something that should be an issue in the discussions, we will create an issue and move to the appropriate repo and help you there.
+2. If you email regarding help with an assignment, you will be instructed to create an issue and we will help you there.
+3. If you show up to office hours for help with problems related to an assignment, you **_MUST_** create an issue first. If you haven't created an issue you will be moved back into the queue and asked to create one before returning. 
 
 ### Assignment submission and grading
 
