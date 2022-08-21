@@ -63,11 +63,11 @@ Do not copy and paste the work of others.
 ### Final term project (a99)
 
 The final assignment for COMP 426 is a term project which you will complete as part of a team. 
-Students will be assigned, based on interest, to teams of 3 to design and debug a single term project. 
+Students will be assigned to teams of 3 to design, document, and develop a single term project. 
 
 We will begin working on the final project within the first several weeks of the class.
 
-### Collaborative development
+#### Collaborative development
 
 Each team members’s contribution to the project must be the result of their own individual effort. 
 Be careful that you do not submit any code that you did not personally write.
