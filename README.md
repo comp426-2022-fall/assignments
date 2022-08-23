@@ -14,6 +14,12 @@ Some assignments will introduce important new material that isn't directly cover
 |:--- |:--- |:--- |:--- |
 | a00: Onboarding | [Accept invite](https://classroom.github.com/a/TLIqqWVj) | [Issues](https://github.com/comp426-2022-fall/a00/issues/) | 2022-08-25 |
 
+### List of exams
+
+| **Assignment** | **GitHub Classroom Invite** | **Issues** | **Due date** |
+|:--- |:--- |:--- |:--- |
+| e00: Preliminary exam | [Accept invite](https://classroom.github.com/a/KwSUbjT7) | [Issues](https://github.com/comp426-2022-fall/assignments/issues) | **2022-09-01** |
+
 ### Help with assignments
 
 **_ALL_** questions and requests for help with assignments should start with the creation of an issue in the appropriate template repository.
