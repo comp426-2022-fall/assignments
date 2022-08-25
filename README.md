@@ -13,7 +13,7 @@ Some assignments will introduce important new material that isn't directly cover
 | **Assignment** | **GitHub Classroom Invite** | **Template Repo** | **Due date** |
 |:--- |:--- |:--- |:--- |
 | a00: Onboarding | [Accept invite](https://classroom.github.com/a/TLIqqWVj) | [Issues](https://github.com/comp426-2022-fall/a00/issues/) | 2022-08-25 |
-| a00: Node.js | [Accept invite](https://classroom.github.com/a/d2j_Uokh) | [Issues](https://github.com/comp426-2022-fall/a01/issues/) | 2022-09-01 |
+| a01: Node.js | [Accept invite](https://classroom.github.com/a/d2j_Uokh) | [Issues](https://github.com/comp426-2022-fall/a01/issues/) | 2022-09-01 |
 
 ### List of exams
 
