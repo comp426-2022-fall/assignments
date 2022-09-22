@@ -14,6 +14,7 @@ Some assignments will introduce important new material that isn't directly cover
 |:--- |:--- |:--- |:--- |
 | a00: Onboarding | [Accept invite](https://classroom.github.com/a/TLIqqWVj) | [Issues](https://github.com/comp426-2022-fall/a00/issues/) | 2022-08-25 |
 | a01: Node.js | [Accept invite](https://classroom.github.com/a/d2j_Uokh) | [Issues](https://github.com/comp426-2022-fall/a01/issues/) | 2022-09-01 |
+| a02: Command line Node package | [Accept invite](https://classroom.github.com/a/BWDG9CJ7) | [Issues](https://github.com/comp426-2022-fall/a02/issues/) | 2022-10-06 |
 
 ### List of exams
 
