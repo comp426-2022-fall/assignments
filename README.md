@@ -15,12 +15,14 @@ Some assignments will introduce important new material that isn't directly cover
 | a00: Onboarding | [Accept invite](https://classroom.github.com/a/TLIqqWVj) | [Issues](https://github.com/comp426-2022-fall/a00/issues/) | 2022-08-25 |
 | a01: Node.js | [Accept invite](https://classroom.github.com/a/d2j_Uokh) | [Issues](https://github.com/comp426-2022-fall/a01/issues/) | 2022-09-01 |
 | a02: Command line Node package | [Accept invite](https://classroom.github.com/a/BWDG9CJ7) | [Issues](https://github.com/comp426-2022-fall/a02/issues/) | 2022-10-06 |
+| a03: Module package | [Accept invite](https://classroom.github.com/a/o2BI17QU) | [Issues](https://github.com/comp426-2022-fall/a03/issues/) | 2022-11-10 |
 
 ### List of exams
 
 | **Assignment** | **GitHub Classroom Invite** | **Issues** | **Due date** |
 |:--- |:--- |:--- |:--- |
 | e00: Preliminary exam | [Accept invite](https://classroom.github.com/a/KwSUbjT7) | [Issues](https://github.com/comp426-2022-fall/assignments/issues) | **2022-09-01** |
+| e01: Midterm exam | [Accept invite](https://classroom.github.com/a/R9lgxIr5) | [Issues](https://github.com/comp426-2022-fall/assignments/issues) | **2022-11-01** |
 
 ### Help with assignments
 
