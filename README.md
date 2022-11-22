@@ -16,7 +16,7 @@ Some assignments will introduce important new material that isn't directly cover
 | a01: Node.js | [Accept invite](https://classroom.github.com/a/d2j_Uokh) | [Issues](https://github.com/comp426-2022-fall/a01/issues/) | 2022-09-01 |
 | a02: Command line Node package | [Accept invite](https://classroom.github.com/a/BWDG9CJ7) | [Issues](https://github.com/comp426-2022-fall/a02/issues/) | 2022-10-06 |
 | a03: Module package | [Accept invite](https://classroom.github.com/a/o2BI17QU) | [Issues](https://github.com/comp426-2022-fall/a03/issues/) | 2022-11-10 |
-| a04: Stand up an API | [Accept invite](https://classroom.github.com/a/CtRcwZji) | [Issues](https://github.com/comp426-2022-fall/a04/issues) | 2022-11-17 | a99: Final Project | [Instructions and rubric](./a99-rubric.md) | [Issues} | [Issues](https://github.com/comp426-2022-fall/assignments/issues) | Exam period |
+| a04: Stand up an API | [Accept invite](https://classroom.github.com/a/CtRcwZji) | [Issues](https://github.com/comp426-2022-fall/a04/issues) | 2022-11-17 | a99: Final Project | [Instructions and rubric](./a99-rubric.md) | [Issues](https://github.com/comp426-2022-fall/assignments/issues) | Exam period |
 
 ### List of exams
 
