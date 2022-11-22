@@ -2,7 +2,9 @@
 
 General final project issues and questions: https://github.com/comp426-2022-spring/assignments/issues
 
-**NOTE: You are all each individually responsible for submitting a final self- and team-assessment in addition to your team's submission of the final project. Instructions will be available for that on the assignment page under [FINAL](a/final).**
+Most general questions and an overview of getting your team set up is in this lecture: https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9007199e-959e-4d98-bcfa-af5500ec9123
+
+**NOTE: You are all each individually responsible for submitting a final self- and team-assessment in addition to your team's submission of the final project. This will be emailed to you in the last week of the semester.**
 
 ## Overview
 
