@@ -1,13 +1,4 @@
----
-title: "a99 Final Project"
-description: "Create a public health information app or system using an interface to interact with a backend API & database."
-draft: false
-weight: 990
-enableToc: true
-tocLevels: ["h2", "h3", "h4"]
----
-
-**DUE:** (End of Exam Period)
+**DUE:** 2022-12-08T15:00 (End of Exam Period)
 
 General final project issues and questions: https://github.com/comp426-2022-spring/assignments/issues
 
