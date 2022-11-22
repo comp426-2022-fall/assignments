@@ -32,7 +32,7 @@ Your team is responsible for incorporating the following specifications and deli
 1. Back-end specifications
 	1. API built on whatever framework you choose. You can build an API that interacts with other APIs as well in order to integrate them.
 	2. API root endpoint at `http://HOST/app/`.
-	4. Create (if nonexistent) and interact with a database of users and interactions (this can be logs, even). If users do not need to login to use your app, then do not worry about a user DB. These can be separate databases for different microservices or separate tables in one database. It is up to your team's decisions.
+	4. Create (if nonexistent) and interact with a database of users (optional) and interactions (this can be logs, even). If users do not need to login to use your app, then do not worry about a user DB. These can be separate databases for different microservices or separate tables in one database. It is up to your team's decisions.
 	5. Database can be of any type you choose.
 2. Front-end specifications
 	1. Give users the ability to register an account, update their information, see their information somewhere, and delete their account.
