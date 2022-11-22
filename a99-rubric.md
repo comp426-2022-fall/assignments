@@ -190,3 +190,11 @@ This doesn't mean that what you build has to be earth-shattering.
 It can be whatever your team wants it to be.
 
 So, BE CREATIVE, and do interesting things!
+
+## Documentation examples
+
+https://open-meteo.com/en/docs#api-documentation
+
+https://github.com/jdmar3/coinserver
+
+[Postman Generate API Documentation](https://learning.postman.com/docs/publishing-your-api/documenting-your-api/)
