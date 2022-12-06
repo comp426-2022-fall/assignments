@@ -189,8 +189,10 @@ Expected output if test passes: `"radarStation": "KFCX"` in the JSON output.
 
 Setup command:
 ```
-cp ./07/weather.js ./07/weather.mjs
+if grep -q "import" ./07/weather.js; then cp ./07/weather.js ./07/weather.mjs; fi
 ```
+> This setup command is necessary because this script is likely going to use ES Methods (`import` rather than `require` because of the use of `fetch()`).
+> I will keep an eye on this task to make sure that it is behaving properly, but your file should still be a normal `.js` file like in the instructions. 
 
 Run command:
 ```
@@ -203,8 +205,10 @@ Expected output if test passes: `radarStation: 'KATX'` in the JSON output.
 
 Setup command:
 ```
-
+if grep -q "import" ./07/server.js; then cp ./08/server.js ./07/server.mjs; fi
 ```
+> This setup command is necessary because this script is potentially going to use ES Methods (`import` rather than `require` because of the use of `fetch()`).
+> I will keep an eye on this task to make sure that it is behaving properly, but your file should still be a normal `.js` file like in the instructions. 
 
 Run command:
 ```
