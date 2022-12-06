@@ -2,7 +2,7 @@
 
 This file includes all of the actual test scripts that the autograder action we are running for the comprehensive final exam.
 
-# Run npm install
+## Run npm install
 
 Setup command:
 ```
@@ -16,7 +16,7 @@ npm install
 
 This should run without an error.
 
-# Check if the package license is set
+## Check if the package license is set
 
 Setup command:
 ```
@@ -30,7 +30,7 @@ cat package.json
 
 The license line should be changed to `GPL-3.0-or-later`
 
-# Check for the author line
+## Check for the author line
 
 Setup command:
 ```
@@ -44,7 +44,7 @@ cat package.json
 
 Author line should be defined.
 
-# Test 01.0
+## Test 01.0
 
 Setup command:
 ```
@@ -58,7 +58,7 @@ PORT=5555; (timeout --signal=SIGINT 5 node ./01/server.js; exit 0) & sleep 1s &&
 
 Expected output if test passes: `TRUE`
 
-# Test 01.1
+## Test 01.1
 
 Setup command:
 ```
@@ -72,7 +72,7 @@ PORT=5555; MESSAGE="$(openssl rand -hex 4)"; (timeout --signal=SIGINT 5 node ./0
 
 Expected output if test passes: `TRUE`
 
-# Test 02.0
+## Test 02.0
 
 Setup command:
 ```
@@ -86,7 +86,7 @@ A="$(shuf -i 0-99 -n 1)"; B="$(shuf -i 0-99 -n 1)"; C="$(($A+$B))"; TEST=$(node 
 
 Expected output if test passes: `TRUE`
 
-# Test 03.0
+## Test 03.0
 
 Setup command:
 ```
@@ -100,7 +100,7 @@ PORT=5555; (timeout --signal=SIGINT 5 node ./03/server.js; exit 0) & sleep 1s &&
 
 Expected output if test passes: `TRUE`
 
-# Test 03.1
+## Test 03.1
 
 Setup command:
 ```
@@ -115,7 +115,7 @@ PORT=$(shuf -i 2000-65535 -n 1); (timeout --signal=SIGINT 5 node ./03/server.js 
 
 Expected output if test passes: `TRUE`
 
-# Test 04.0
+## Test 04.0
 
 Setup command:
 ```
@@ -129,7 +129,7 @@ node --eval "const db = require('./04/database.js');"
 
 Expected output if test passes: `TRUE`
 
-# Test 04.1
+## Test 04.1
 
 Setup command:
 ```
@@ -143,7 +143,7 @@ ls info.db
 
 Expected output if test passes: `info.db`
 
-# Test 04.2
+## Test 04.2
 
 Setup command:
 ```
@@ -157,7 +157,7 @@ node --eval "const db = require('./04/database.js'); const customertab = db.prep
 
 Expected output if test passes: `TRUE`
 
-# Test 05.0
+## Test 05.0
 
 Setup command:
 ```
@@ -171,7 +171,7 @@ LASTNAME="$(openssl rand -hex 4)"; FIRSTNAME="$(openssl rand -hex 4)"; EMAIL="$(
 
 Expected output if test passes: `TRUE`
 
-# Test 06.0
+## Test 06.0
 
 Setup command:
 ```
@@ -185,7 +185,7 @@ bash ./06/weather.sh
 
 Expected output if test passes: `"radarStation": "KFCX"` in the JSON output.
 
-# Test 07.0
+## Test 07.0
 
 Setup command:
 ```
@@ -199,7 +199,7 @@ node  ./07/weather.mjs --latitude=47.6062 --longitude=-122.3321
 
 Expected output if test passes: `radarStation: 'KATX'` in the JSON output.
 
-# Test 08.0
+## Test 08.0
 
 Setup command:
 ```
@@ -213,7 +213,7 @@ PORT=$(shuf -i 2000-65535 -n 1); (timeout --signal=SIGINT 5 node ./08/server.js 
 
 Expected output if test passes: `TRUE`
 
-# Test 09.0
+## Test 09.0
 
 Setup command:
 ```
@@ -227,7 +227,7 @@ PORT=$(shuf -i 2000-65535 -n 1); (timeout --signal=SIGINT 5 node ./09/server.js 
 
 Expected output if test passes: `TRUE`
 
-# Test 10.0
+## Test 10.0
 
 Setup command:
 ```
