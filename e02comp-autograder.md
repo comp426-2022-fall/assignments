@@ -121,12 +121,12 @@ npm install better-sqlite3 && npm install
 
 Run command:
 ```
-
+node --eval "const db = require('./04/database.js');"
 ```
 
 Expected output if test passes: `TRUE`
 
-# Test 01.0
+# Test 04.1
 
 Setup command:
 ```
@@ -135,12 +135,12 @@ Setup command:
 
 Run command:
 ```
-
+ls info.db
 ```
 
-Expected output if test passes: `TRUE`
+Expected output if test passes: `info.db`
 
-# Test 01.0
+# Test 04.2
 
 Setup command:
 ```
@@ -149,7 +149,7 @@ Setup command:
 
 Run command:
 ```
-
+node --eval "const db = require('./04/database.js'); const customertab = db.prepare('SELECT * FROM customers').columns(); console.log(customertab);" > test04-1.txt && if grep -q "table: 'customers'," test04-1.txt; then echo "TRUE"; else echo "FALSE"; fi
 ```
 
 Expected output if test passes: `TRUE`
